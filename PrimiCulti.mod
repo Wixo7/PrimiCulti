@@ -1,0 +1,6 @@
+name="Primi Culti"
+archive="mod/PrimiCulti"
+supported_version="1.24.*.*"
+replace_path="history/countries"
+replace_path="history/provinces"
+replace_path="common"
